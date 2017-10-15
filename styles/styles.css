@@ -1,0 +1,37 @@
+
+body {
+  background:#646ad6;
+  font-family:arial;
+  margin:0px;
+}
+header{
+  background:#5358ad
+}
+.container{
+  width:1200px;
+  margin:auto;
+
+}
+.logo{
+  color:white;
+  text-decoration:none;
+  font-size:26px;
+  margin-top:8px;
+  display:inline-block;
+}
+nav{
+  float:right;
+
+}
+.menu-link{
+  color:white;
+  text-decoration:none;
+  padding:16px;
+  display:inline-block;
+}
+.menu-link:hover{
+  background:#535ad6
+}
+.clear{
+  clear:both
+}
